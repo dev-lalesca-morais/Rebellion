@@ -31,7 +31,7 @@ Para executar este aplicativo localmente, siga estas etapas:
    ./mvnw spring-boot:run
    ```
 
-   O aplicativo será iniciado em `http://localhost:8090`.
+   O aplicativo será iniciado em `http://localhost:5000`.
 
 ## Endpoints
 
